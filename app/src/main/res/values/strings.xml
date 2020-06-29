@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Мои заметки</string>
+    <string name="btnSave">Сохранить заметку</string>
+    <string name="hint">Создате заметку</string>
+</resources>
